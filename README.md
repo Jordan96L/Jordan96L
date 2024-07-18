@@ -4,7 +4,7 @@
 
 #### [Northcoders](https://northcoders.com/) graduate based just outside of Manchester.
 
-A positive thinking devleoper and always looking to improve my skills within the tech industry.
+A positive thinking developer and always looking to improve my skills within the tech industry.
 
 **Connect with me** on [LinkedIn](https://www.linkedin.com/in/jordan-ling-817319249/).
 
